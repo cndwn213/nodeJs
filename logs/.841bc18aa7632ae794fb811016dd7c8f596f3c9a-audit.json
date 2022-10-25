@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\CJ\\Desktop\\NodeJs\\nodeJs\\second_practice\\logs\\.841bc18aa7632ae794fb811016dd7c8f596f3c9a-audit.json",
+    "files": [
+        {
+            "date": 1666610974387,
+            "name": "C:\\Users\\CJ\\Desktop\\NodeJs\\nodeJs\\second_practice\\logs\\2022-10-24.error.log",
+            "hash": "87b92c0138e00deba3432818c38f43f66ddf686735a99686a3e3120980348cdd"
+        }
+    ],
+    "hashType": "sha256"
+}
